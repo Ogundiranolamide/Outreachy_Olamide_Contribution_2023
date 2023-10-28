@@ -10,6 +10,12 @@
 3. [Soil resources](#soil-resources)
 4. [Land Cover](#land-cover)
 
+<img src="https://ars.els-cdn.com/content/image/1-s2.0-S1470160X20312085-gr1_lrg.jpg" alt="Congo Basin Forest" width="800" height="600">
+
+**`Fig 1`**
+> *The regional study area encompasses 6 countries in the Congo Basin. A national scale assessment focuses on the Democratic Republic of Congo (DRC). Major biogeographic boundaries are defined by the Ubangi and Congo Rivers. Green shows the primary tropical forest cover for 2016.*
+
+
 #### **`Introduction:`**
 
 The Congo Basin forest ecoregion (Olson and Dinerstein, 2002) is comprised of tropical forests in the Democratic Republic of Congo (DRC), Republic of Congo (ROC), Equatorial Guinea, Gabon, Cameroon, Central Africa Republic, and a small portion of Angola (Fig. 1). This represents the largest connected tract of forest in Africa, and the single largest peatland complex in the world, storing a significant amount of forest carbon [Dargie et al., 2017](https://www.sciencedirect.com/science/article/pii/S1470160X20312085#b0075)
