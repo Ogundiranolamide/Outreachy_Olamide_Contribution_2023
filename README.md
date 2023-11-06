@@ -1,5 +1,4 @@
-# Outreachy Olamide Contribution 2023
-`Outreachy Contribution 2023`
+# `Outreachy Contribution 2023`
 
 ## <span style="font-family: Arial, sans-serif; font-size">Analysis Of Moja Global Datasets To Evaluate The Congo Basin Forest Ecoregion</span>
 
